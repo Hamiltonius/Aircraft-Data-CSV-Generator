@@ -14,6 +14,28 @@ The data generated includes details like service members' names, ranks, SSNs, se
 - The script outputs data as a CSV file, ready for use in **Excel** or other data manipulation tools.
 - Data can be piped into **cloud databases** such as **MariaDB**, **Redis**, **MongoDB**, or **DynamoDB**.
 
+## Key Visuals
+
+---
+
+**Entity-Relationship Diagram of the Database**
+
+Below are key screenshots representing the generated data and processes:
+
+---
+
+### Staging Table Setup
+![Staging Table](images/Staging.jpg)
+
+### Aircraft Transfer Process 
+
+![Transfer Process](images/Transfers.jpg)
+
+### Bases Table
+
+![ERD Diagram](images/Bases.jpg)
+
+
 ## Historical Reference
 
 **Operation LUSTY** was a real post-World War II mission aimed at recovering German aircraft technology. This script, however, fictionalizes a Vietnam War-era operation under a similar codename. The data generated mimics the movement of aircraft and personnel between bases during wartime scenarios, with a specific focus on the Vietnam War.
